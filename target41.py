@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # 데이터 파일 경로 설정
-DATA_FILE = "goal_data.json"
+DATA_FILE = "./goal_data.json"
 
 # 데이터 불러오기
 def load_data():
